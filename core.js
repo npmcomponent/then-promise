@@ -1,6 +1,6 @@
 'use strict';
 
-var asap = require('asap')
+var asap = require('johntron-asap')
 
 module.exports = Promise
 function Promise(fn) {

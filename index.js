@@ -3,7 +3,7 @@
 //This file contains then/promise specific extensions to the core promise API
 
 var Promise = require('./core.js')
-var asap = require('asap')
+var asap = require('johntron-asap')
 
 module.exports = Promise
 
